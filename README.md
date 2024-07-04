@@ -28,9 +28,11 @@ The objective of the report is to analyse and present comprehensive insights int
 1) Gather Data: Collect the necessary data for my project. Ensure the data is accurate and relevant to my objective. 
 2) Power Querry – Data Extract, Transform & Load: Made Use of Power Query Editor to Clean and transform the data to make it suitable for analysis. Checked for duplicates, missing values, merging datasets, and creating calculated columns.
 3) Create a Date Table: Created a Date Table using a DAX (Data Analysis Expressions)
+   
 ![image](https://github.com/inioluwa279/Sales-Analysis-with-Power-BI/assets/133115794/70e5d44e-9297-42d8-959a-f4beb7f30c2c)
-4) Create Data Model in Power BI Desktop: Designed and created a data model that represents the relationships between different tables in the data. Establish proper relationships, define keys, and establish hierarchies.
-5) Develop Reports in Power BI Desktop: Used Power BI Desktop application to create reports based on the data model. Added visualizations such as charts, tables, and maps to represent the data effectively. Apply filters, slicers, and drill-through functionalities to allow users to interact with the data.
+
+5) Create Data Model in Power BI Desktop: Designed and created a data model that represents the relationships between different tables in the data. Establish proper relationships, define keys, and establish hierarchies.
+6) Develop Reports in Power BI Desktop: Used Power BI Desktop application to create reports based on the data model. Added visualizations such as charts, tables, and maps to represent the data effectively. Apply filters, slicers, and drill-through functionalities to allow users to interact with the data.
 -	Create Report Background in PowerPoint
 -	Create Slicers – Date, City, Product, and Channel
 -	Create Dax measures
@@ -42,7 +44,6 @@ The objective of the report is to analyse and present comprehensive insights int
  5)	Sales By Customer and Comparing it with last year’s Sales
  6)	Create Cards for Sales, Profit, Profit Margin & Product Sold
 6) Implementing DAX Calculations: Made used Data Analysis Expressions (DAX) to create calculated columns, measures, and calculated tables to perform complex calculations and aggregations. DAX is a powerful formula language that allows you to manipulate data within Power BI.
-
 ![image](https://github.com/inioluwa279/Sales-Analysis-with-Power-BI/assets/133115794/b0339f76-6e26-4189-95d7-b2024b174269)
 
 ![image](https://github.com/inioluwa279/Sales-Analysis-with-Power-BI/assets/133115794/9481a33a-7b37-4ef9-9954-36b551060c26)
